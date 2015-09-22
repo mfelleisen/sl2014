@@ -1,3 +1,2 @@
-# sl2014
 
-HELLO WORLD
+sl2014
